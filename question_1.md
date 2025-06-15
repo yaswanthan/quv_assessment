@@ -58,6 +58,6 @@ By observing **which prisoners die**, we can reconstruct the **binary number** t
 ## Files
 
 I will attach:
-- An **Excel** file for 1000 glasses with 3 poisoned
+- An **Excel** file for 1000 glasses with 3 poisoned and 6 glasses with 2 poissoned
 - An **IPython Notebook** for simulations
 - A **mini example** with 6 glasses and 2 poisoned bottles
