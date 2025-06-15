@@ -1,6 +1,7 @@
-,Glass_of_wine,bit,prisoner_1,prisoner_2,prisoner_3,prisoner_4
-0,1,0001,0,0,0,1
-1,2,0010,0,0,1,0
-2,3,0011,0,0,1,1
-3,4,0100,0,1,0,0
-4,5,0101,0,1,0,1
+Glass_of_wine,bit,prisoner_1,prisoner_2,prisoner_3,prisoner_4
+1,1,0,0,0,1
+2,10,0,0,1,0
+3,11,0,0,1,1
+4,100,0,1,0,0
+5,101,0,1,0,1
+6,110,0,1,1,0
